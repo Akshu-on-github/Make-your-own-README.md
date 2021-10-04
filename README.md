@@ -1,3 +1,13 @@
+## Screenshots of Commit c974979
+
+<table>
+<tr>
+  <td><img src="https://user-images.githubusercontent.com/69833791/135889670-56e641d1-c577-49f3-abd6-30cb5f1b585a.png" alt="Commit c974979 in dark mode" width="597" ></td>
+  <td><img src="https://user-images.githubusercontent.com/69833791/135892235-46d9c225-22ef-463e-8a28-d87260de4a0d.png" alt="Commit c974979 in light mode" width="597" ></td>
+</tr>
+</table>
+
+
 ## Header image
 ```
 <img src="PATH" alt="IMAGE_DESCRIPTION" width=100%>
