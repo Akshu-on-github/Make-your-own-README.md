@@ -59,7 +59,7 @@ _Note: I'd reccomend updating these once a week, maybe each Sunday afternoon_
 ```
 
 <details>
-  <summary><b>TODO:</b></summary>
+  <summary><b>TO_DO:</b></summary>
   <ol>
     <li>Replace <i>SOCIAL_PLATFORM</i> to the social media handle of your choice (eg: LinkedIn, Twitter, etc.)</li>
     <li>Replace <i>SOCIAL_PROFILE</i> to the link to your profile on the social media platform</li>
@@ -72,7 +72,7 @@ _Note: I'd reccomend updating these once a week, maybe each Sunday afternoon_
 <img src="PATH" alt="IMAGE_DESCRIPTION" width=50px>
 ```
 <details>
-  <summary><b>TODO:</b></summary>
+  <summary><b>TO_DO:</b></summary>
   <ol>
     <li>Add an image source: Upload a png, svg, jpeg or gif and replace <i>PATH</i> in the image tag with the url/path</li>
     <li>Add alternate text: Replace the <i>IMAGE_DESCRIPTION</i> in the image tag with a short description of the image for better accessibility</li>
